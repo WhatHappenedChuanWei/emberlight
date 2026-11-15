@@ -4,3 +4,6 @@ node_modules/
 *.log
 *.png
 .claude/
+# 仅本地使用的辅助脚本
+commit-push.ps1
+提交并推送.bat
